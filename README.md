@@ -13,4 +13,4 @@ To use the app, follow these steps:
 
 ## Live demo
 
-You can try the live demo of the app at the following link: https://meal-ideas.netlify.app/
+You can try the live demo of the app at the following link: https://mealideas.netlify.app/
